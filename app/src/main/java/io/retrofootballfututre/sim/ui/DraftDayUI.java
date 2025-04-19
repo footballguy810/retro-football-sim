@@ -1,21 +1,24 @@
 package ui;
 
 import sim.Player;
-import sim.DraftBoard;
+import sim.Team;
+import sim.DraftPick;
 
 import java.util.List;
 
 public class DraftDayUI {
-    public void displayDraftBoard(DraftBoard board) {
-        System.out.println("🎯 Draft Day - Top Prospects:");
-        List<Player> prospects = board.getTopProspects();
-        for (int i = 0; i < prospects.size(); i++) {
-            Player p = prospects.get(i);
-            System.out.println((i + 1) + ". " + p.getName() + " - " + p.getCollege() + " - Rating: " + p.getOverallRating());
+
+    public void displayDraftBoard(List<DraftPick> picks) {
+        System.out.println("📋 Official Draft Board:");
+        for (DraftPick pick : picks) {
+            System.out.println("Pick #" + pick.getPickNumber() + ": " +
+                               pick.getTeam().getName() + " selects " +
+                               pick.getPlayer().getName() + " (" + pick.getPlayer().getCollegeName() + ")");
         }
     }
 
-    public void announceDraftPick(Player player, int pickNumber, String teamName) {
-        System.out.println("With the #" + pickNumber + " pick, the " + teamName + " select: " + player.getName() + " from " + player.getCollege() + "!");
+    public void showPlayerReaction(Player player, Team team) {
+        System.out.println("🎉 " + player.getName() + " has been drafted by the " + team.getName() + "!");
+        System.out.println("Contract Terms: " + player.getContractDetails());
     }
 }

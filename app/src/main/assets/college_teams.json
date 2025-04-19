@@ -1,0 +1,894 @@
+[
+    {
+      "name": "Solstice University",
+      "location": "Solstice",
+      "nickname": "Flames",
+      "primaryColor": "#FF6347",
+      "secondaryColor": "#FFDAB9",
+      "rival": "Borealis Academy",
+      "state": "California"
+    },
+    {
+      "name": "Borealis Academy",
+      "location": "Borealis",
+      "nickname": "Auroras",
+      "primaryColor": "#1E90FF",
+      "secondaryColor": "#D8BFD8",
+      "rival": "Solstice University",
+      "state": "Alaska"
+    },
+    {
+      "name": "Titan Tech",
+      "location": "Elysium",
+      "nickname": "Titans",
+      "primaryColor": "#708090",
+      "secondaryColor": "#F0E68C",
+      "rival": "Obsidian State",
+      "state": "Nevada"
+    },
+    {
+      "name": "Obsidian State",
+      "location": "Obsidian",
+      "nickname": "Crags",
+      "primaryColor": "#2F4F4F",
+      "secondaryColor": "#A9A9A9",
+      "rival": "Titan Tech",
+      "state": "Arizona"
+    },
+    {
+      "name": "Crimson Forge",
+      "location": "Furnace",
+      "nickname": "Forgers",
+      "primaryColor": "#DC143C",
+      "secondaryColor": "#8B0000",
+      "rival": "Ironwood Institute",
+      "state": "Texas"
+    },
+    {
+      "name": "Ironwood Institute",
+      "location": "Ironwood",
+      "nickname": "Anvils",
+      "primaryColor": "#B22222",
+      "secondaryColor": "#CD5C5C",
+      "rival": "Crimson Forge",
+      "state": "Texas"
+    },
+    {
+      "name": "Frost Valley University",
+      "location": "Glacier Bay",
+      "nickname": "Frostwolves",
+      "primaryColor": "#00BFFF",
+      "secondaryColor": "#E0FFFF",
+      "rival": "Arctic Dominion",
+      "state": "Montana"
+    },
+    {
+      "name": "Arctic Dominion",
+      "location": "Northreach",
+      "nickname": "Winds",
+      "primaryColor": "#4682B4",
+      "secondaryColor": "#B0C4DE",
+      "rival": "Frost Valley University",
+      "state": "Alaska"
+    },
+    {
+      "name": "Crescent Bay University",
+      "location": "Crescent Bay",
+      "nickname": "Seastars",
+      "primaryColor": "#4169E1",
+      "secondaryColor": "#87CEFA",
+      "rival": "Golden Coast College",
+      "state": "California"
+    },
+    {
+      "name": "Golden Coast College",
+      "location": "Sonoma Shore",
+      "nickname": "Tides",
+      "primaryColor": "#20B2AA",
+      "secondaryColor": "#B0E0E6",
+      "rival": "Crescent Bay University",
+      "state": "California"
+    },
+    {
+      "name": "Prairie Ridge University",
+      "location": "Great Plains",
+      "nickname": "Buffs",
+      "primaryColor": "#DAA520",
+      "secondaryColor": "#F5DEB3",
+      "rival": "Timberland State",
+      "state": "Kansas"
+    },
+    {
+      "name": "Timberland State",
+      "location": "Boar Hollow",
+      "nickname": "Boars",
+      "primaryColor": "#556B2F",
+      "secondaryColor": "#8FBC8F",
+      "rival": "Prairie Ridge University",
+      "state": "Arkansas"
+    },
+    {
+      "name": "Liberty Heights College",
+      "location": "New Liberty",
+      "nickname": "Eagles",
+      "primaryColor": "#00008B",
+      "secondaryColor": "#B22222",
+      "rival": "Commonwealth University",
+      "state": "Virginia"
+    },
+    {
+      "name": "Commonwealth University",
+      "location": "Columbia City",
+      "nickname": "Commons",
+      "primaryColor": "#8B008B",
+      "secondaryColor": "#FFD700",
+      "rival": "Liberty Heights College",
+      "state": "Maryland"
+    },
+    {
+      "name": "Mariner’s Institute",
+      "location": "Port Locke",
+      "nickname": "Mariners",
+      "primaryColor": "#191970",
+      "secondaryColor": "#ADD8E6",
+      "rival": "Northshore State",
+      "state": "Maine"
+    },
+    {
+      "name": "Northshore State",
+      "location": "Bayfield",
+      "nickname": "Buoys",
+      "primaryColor": "#468499",
+      "secondaryColor": "#AFEEEE",
+      "rival": "Mariner’s Institute",
+      "state": "Massachusetts"
+    },
+    {
+      "name": "Sierra Crest University",
+      "location": "Highpass",
+      "nickname": "Goats",
+      "primaryColor": "#708090",
+      "secondaryColor": "#C0C0C0",
+      "rival": "Cascade State",
+      "state": "Colorado"
+    },
+    {
+      "name": "Cascade State",
+      "location": "Cascade City",
+      "nickname": "Falcons",
+      "primaryColor": "#2E8B57",
+      "secondaryColor": "#98FB98",
+      "rival": "Sierra Crest University",
+      "state": "Oregon"
+    },
+    {
+      "name": "Canyon Rock College",
+      "location": "Redlands",
+      "nickname": "Raptors",
+      "primaryColor": "#A52A2A",
+      "secondaryColor": "#DEB887",
+      "rival": "Dust Valley Tech",
+      "state": "Utah"
+    },
+    {
+      "name": "Dust Valley Tech",
+      "location": "Drybend",
+      "nickname": "Scorchers",
+      "primaryColor": "#B87333",
+      "secondaryColor": "#FFD700",
+      "rival": "Canyon Rock College",
+      "state": "New Mexico"
+    }
+  [
+  {
+    "name": "Emerald Bay University",
+    "location": "Seaglen",
+    "nickname": "Sharks",
+    "primaryColor": "#008080",
+    "secondaryColor": "#40E0D0",
+    "rival": "Crimson Sound College",
+    "state": "Florida"
+  },
+  {
+    "name": "Crimson Sound College",
+    "location": "Deepgulf",
+    "nickname": "Barracudas",
+    "primaryColor": "#B22222",
+    "secondaryColor": "#FFA07A",
+    "rival": "Emerald Bay University",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Thunder Ridge Tech",
+    "location": "Storm Bluff",
+    "nickname": "Bolts",
+    "primaryColor": "#1C1C1C",
+    "secondaryColor": "#FFD700",
+    "rival": "Rainshadow University",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Rainshadow University",
+    "location": "Mist Creek",
+    "nickname": "Shadows",
+    "primaryColor": "#2F4F4F",
+    "secondaryColor": "#A9A9A9",
+    "rival": "Thunder Ridge Tech",
+    "state": "Washington"
+  },
+  {
+    "name": "Great Iron College",
+    "location": "Forge City",
+    "nickname": "Steelmen",
+    "primaryColor": "#808080",
+    "secondaryColor": "#C0C0C0",
+    "rival": "Rustbelt Tech",
+    "state": "Ohio"
+  },
+  {
+    "name": "Rustbelt Tech",
+    "location": "Mill Junction",
+    "nickname": "Scraps",
+    "primaryColor": "#B87333",
+    "secondaryColor": "#DAA520",
+    "rival": "Great Iron College",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Glacier Summit",
+    "location": "Icerock",
+    "nickname": "Yetis",
+    "primaryColor": "#E0FFFF",
+    "secondaryColor": "#4682B4",
+    "rival": "Snowpoint Academy",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Snowpoint Academy",
+    "location": "Snowridge",
+    "nickname": "Frostbites",
+    "primaryColor": "#B0E0E6",
+    "secondaryColor": "#AFEEEE",
+    "rival": "Glacier Summit",
+    "state": "Idaho"
+  },
+  {
+    "name": "Sunbelt Union",
+    "location": "Sunspire",
+    "nickname": "Suns",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#FFA500",
+    "rival": "Sandstorm State",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Sandstorm State",
+    "location": "Cactus Hollow",
+    "nickname": "Dustdevils",
+    "primaryColor": "#F4A460",
+    "secondaryColor": "#D2B48C",
+    "rival": "Sunbelt Union",
+    "state": "Arizona"
+  },
+  {
+    "name": "Delta Southern University",
+    "location": "Riverbend",
+    "nickname": "Catfish",
+    "primaryColor": "#6495ED",
+    "secondaryColor": "#B0C4DE",
+    "rival": "Bayou Tech",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Bayou Tech",
+    "location": "Marshline",
+    "nickname": "Gators",
+    "primaryColor": "#228B22",
+    "secondaryColor": "#98FB98",
+    "rival": "Delta Southern University",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Granite Hill College",
+    "location": "Stonemarch",
+    "nickname": "Rhinos",
+    "primaryColor": "#696969",
+    "secondaryColor": "#D3D3D3",
+    "rival": "Crater State",
+    "state": "Nevada"
+  },
+  {
+    "name": "Crater State",
+    "location": "Ashrock",
+    "nickname": "Blazers",
+    "primaryColor": "#8B0000",
+    "secondaryColor": "#FF6347",
+    "rival": "Granite Hill College",
+    "state": "Utah"
+  },
+  {
+    "name": "Bluegrass University",
+    "location": "Lexview",
+    "nickname": "Stallions",
+    "primaryColor": "#4169E1",
+    "secondaryColor": "#87CEFA",
+    "rival": "Ironleaf College",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Ironleaf College",
+    "location": "Oakrest",
+    "nickname": "Elks",
+    "primaryColor": "#556B2F",
+    "secondaryColor": "#6B8E23",
+    "rival": "Bluegrass University",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Highspire Tech",
+    "location": "Nova Hills",
+    "nickname": "Spirehawks",
+    "primaryColor": "#9932CC",
+    "secondaryColor": "#DDA0DD",
+    "rival": "Brightmoon College",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Brightmoon College",
+    "location": "Moonridge",
+    "nickname": "Owls",
+    "primaryColor": "#4B0082",
+    "secondaryColor": "#BA55D3",
+    "rival": "Highspire Tech",
+    "state": "Virginia"
+  },
+  {
+    "name": "Red River University",
+    "location": "Riverton",
+    "nickname": "Coyotes",
+    "primaryColor": "#A52A2A",
+    "secondaryColor": "#F08080",
+    "rival": "Twin Buttes College",
+    "state": "Texas"
+  },
+  {
+    "name": "Twin Buttes College",
+    "location": "Mesa View",
+    "nickname": "Bulls",
+    "primaryColor": "#8B4513",
+    "secondaryColor": "#DEB887",
+    "rival": "Red River University",
+    "state": "Texas"
+  }
+]
+[
+    {
+      "name": "Emerald Bay University",
+      "location": "Seaglen",
+      "nickname": "Sharks",
+      "primaryColor": "#008080",
+      "secondaryColor": "#40E0D0",
+      "rival": "Crimson Sound College",
+      "state": "Florida"
+    },
+    {
+      "name": "Crimson Sound College",
+      "location": "Deepgulf",
+      "nickname": "Barracudas",
+      "primaryColor": "#B22222",
+      "secondaryColor": "#FFA07A",
+      "rival": "Emerald Bay University",
+      "state": "Louisiana"
+    },
+    {
+      "name": "Thunder Ridge Tech",
+      "location": "Storm Bluff",
+      "nickname": "Bolts",
+      "primaryColor": "#1C1C1C",
+      "secondaryColor": "#FFD700",
+      "rival": "Rainshadow University",
+      "state": "Oklahoma"
+    },
+    {
+      "name": "Rainshadow University",
+      "location": "Mist Creek",
+      "nickname": "Shadows",
+      "primaryColor": "#2F4F4F",
+      "secondaryColor": "#A9A9A9",
+      "rival": "Thunder Ridge Tech",
+      "state": "Washington"
+    },
+    {
+      "name": "Great Iron College",
+      "location": "Forge City",
+      "nickname": "Steelmen",
+      "primaryColor": "#808080",
+      "secondaryColor": "#C0C0C0",
+      "rival": "Rustbelt Tech",
+      "state": "Ohio"
+    },
+    {
+      "name": "Rustbelt Tech",
+      "location": "Mill Junction",
+      "nickname": "Scraps",
+      "primaryColor": "#B87333",
+      "secondaryColor": "#DAA520",
+      "rival": "Great Iron College",
+      "state": "Pennsylvania"
+    },
+    {
+      "name": "Glacier Summit",
+      "location": "Icerock",
+      "nickname": "Yetis",
+      "primaryColor": "#E0FFFF",
+      "secondaryColor": "#4682B4",
+      "rival": "Snowpoint Academy",
+      "state": "Wyoming"
+    },
+    {
+      "name": "Snowpoint Academy",
+      "location": "Snowridge",
+      "nickname": "Frostbites",
+      "primaryColor": "#B0E0E6",
+      "secondaryColor": "#AFEEEE",
+      "rival": "Glacier Summit",
+      "state": "Idaho"
+    },
+    {
+      "name": "Sunbelt Union",
+      "location": "Sunspire",
+      "nickname": "Suns",
+      "primaryColor": "#FFD700",
+      "secondaryColor": "#FFA500",
+      "rival": "Sandstorm State",
+      "state": "New Mexico"
+    },
+    {
+      "name": "Sandstorm State",
+      "location": "Cactus Hollow",
+      "nickname": "Dustdevils",
+      "primaryColor": "#F4A460",
+      "secondaryColor": "#D2B48C",
+      "rival": "Sunbelt Union",
+      "state": "Arizona"
+    },
+    {
+      "name": "Delta Southern University",
+      "location": "Riverbend",
+      "nickname": "Catfish",
+      "primaryColor": "#6495ED",
+      "secondaryColor": "#B0C4DE",
+      "rival": "Bayou Tech",
+      "state": "Mississippi"
+    },
+    {
+      "name": "Bayou Tech",
+      "location": "Marshline",
+      "nickname": "Gators",
+      "primaryColor": "#228B22",
+      "secondaryColor": "#98FB98",
+      "rival": "Delta Southern University",
+      "state": "Louisiana"
+    },
+    {
+      "name": "Granite Hill College",
+      "location": "Stonemarch",
+      "nickname": "Rhinos",
+      "primaryColor": "#696969",
+      "secondaryColor": "#D3D3D3",
+      "rival": "Crater State",
+      "state": "Nevada"
+    },
+    {
+      "name": "Crater State",
+      "location": "Ashrock",
+      "nickname": "Blazers",
+      "primaryColor": "#8B0000",
+      "secondaryColor": "#FF6347",
+      "rival": "Granite Hill College",
+      "state": "Utah"
+    },
+    {
+      "name": "Bluegrass University",
+      "location": "Lexview",
+      "nickname": "Stallions",
+      "primaryColor": "#4169E1",
+      "secondaryColor": "#87CEFA",
+      "rival": "Ironleaf College",
+      "state": "Kentucky"
+    },
+    {
+      "name": "Ironleaf College",
+      "location": "Oakrest",
+      "nickname": "Elks",
+      "primaryColor": "#556B2F",
+      "secondaryColor": "#6B8E23",
+      "rival": "Bluegrass University",
+      "state": "Tennessee"
+    },
+    {
+      "name": "Highspire Tech",
+      "location": "Nova Hills",
+      "nickname": "Spirehawks",
+      "primaryColor": "#9932CC",
+      "secondaryColor": "#DDA0DD",
+      "rival": "Brightmoon College",
+      "state": "West Virginia"
+    },
+    {
+      "name": "Brightmoon College",
+      "location": "Moonridge",
+      "nickname": "Owls",
+      "primaryColor": "#4B0082",
+      "secondaryColor": "#BA55D3",
+      "rival": "Highspire Tech",
+      "state": "Virginia"
+    },
+    {
+      "name": "Red River University",
+      "location": "Riverton",
+      "nickname": "Coyotes",
+      "primaryColor": "#A52A2A",
+      "secondaryColor": "#F08080",
+      "rival": "Twin Buttes College",
+      "state": "Texas"
+    },
+    {
+      "name": "Twin Buttes College",
+      "location": "Mesa View",
+      "nickname": "Bulls",
+      "primaryColor": "#8B4513",
+      "secondaryColor": "#DEB887",
+      "rival": "Red River University",
+      "state": "Texas"
+    }
+  ]
+  [
+    {
+      "name": "Iron Range Institute",
+      "location": "Redvale",
+      "nickname": "Miners",
+      "primaryColor": "#A9A9A9",
+      "secondaryColor": "#2F4F4F",
+      "rival": "Northwoods State",
+      "state": "Minnesota"
+    },
+    {
+      "name": "Northwoods State",
+      "location": "Pinebend",
+      "nickname": "Lumberjacks",
+      "primaryColor": "#228B22",
+      "secondaryColor": "#556B2F",
+      "rival": "Iron Range Institute",
+      "state": "Wisconsin"
+    },
+    {
+      "name": "Great Plains College",
+      "location": "Flatrock",
+      "nickname": "Bison",
+      "primaryColor": "#F5DEB3",
+      "secondaryColor": "#A0522D",
+      "rival": "Rolling Prairie Tech",
+      "state": "Nebraska"
+    },
+    {
+      "name": "Rolling Prairie Tech",
+      "location": "Grainfield",
+      "nickname": "Longhorns",
+      "primaryColor": "#D2B48C",
+      "secondaryColor": "#8B4513",
+      "rival": "Great Plains College",
+      "state": "Kansas"
+    },
+    {
+      "name": "Lakewind University",
+      "location": "Clearwater",
+      "nickname": "Otters",
+      "primaryColor": "#00BFFF",
+      "secondaryColor": "#87CEEB",
+      "rival": "Forestheart College",
+      "state": "Michigan"
+    },
+    {
+      "name": "Forestheart College",
+      "location": "Barkridge",
+      "nickname": "Wolves",
+      "primaryColor": "#2E8B57",
+      "secondaryColor": "#6B8E23",
+      "rival": "Lakewind University",
+      "state": "Michigan"
+    },
+    {
+      "name": "Alpine Crest University",
+      "location": "Highridge",
+      "nickname": "Rams",
+      "primaryColor": "#191970",
+      "secondaryColor": "#4169E1",
+      "rival": "Eagle Rock Tech",
+      "state": "Colorado"
+    },
+    {
+      "name": "Eagle Rock Tech",
+      "location": "Skyreach",
+      "nickname": "Eagles",
+      "primaryColor": "#4682B4",
+      "secondaryColor": "#5F9EA0",
+      "rival": "Alpine Crest University",
+      "state": "Colorado"
+    },
+    {
+      "name": "Sequoia Pacific University",
+      "location": "Redfern",
+      "nickname": "Bears",
+      "primaryColor": "#8B0000",
+      "secondaryColor": "#A52A2A",
+      "rival": "Coastal Bay College",
+      "state": "California"
+    },
+    {
+      "name": "Coastal Bay College",
+      "location": "Sandalwood",
+      "nickname": "Surfers",
+      "primaryColor": "#00CED1",
+      "secondaryColor": "#20B2AA",
+      "rival": "Sequoia Pacific University",
+      "state": "California"
+    },
+    {
+      "name": "Golden Heart University",
+      "location": "Aurora Flats",
+      "nickname": "Auroras",
+      "primaryColor": "#FFD700",
+      "secondaryColor": "#FFB6C1",
+      "rival": "Tundra State",
+      "state": "Alaska"
+    },
+    {
+      "name": "Tundra State",
+      "location": "Whitespire",
+      "nickname": "Huskies",
+      "primaryColor": "#708090",
+      "secondaryColor": "#E6E6FA",
+      "rival": "Golden Heart University",
+      "state": "Alaska"
+    },
+    {
+      "name": "Bayfront Maritime Academy",
+      "location": "Harborview",
+      "nickname": "Navigators",
+      "primaryColor": "#000080",
+      "secondaryColor": "#ADD8E6",
+      "rival": "Atlantic State",
+      "state": "Maine"
+    },
+    {
+      "name": "Atlantic State",
+      "location": "Windport",
+      "nickname": "Whalers",
+      "primaryColor": "#4682B4",
+      "secondaryColor": "#B0C4DE",
+      "rival": "Bayfront Maritime Academy",
+      "state": "Massachusetts"
+    },
+    {
+      "name": "Green Valley University",
+      "location": "Elmspring",
+      "nickname": "Vines",
+      "primaryColor": "#228B22",
+      "secondaryColor": "#ADFF2F",
+      "rival": "Ivy Hill College",
+      "state": "Vermont"
+    },
+    {
+      "name": "Ivy Hill College",
+      "location": "Stonefield",
+      "nickname": "Owls",
+      "primaryColor": "#6B8E23",
+      "secondaryColor": "#90EE90",
+      "rival": "Green Valley University",
+      "state": "Connecticut"
+    },
+    {
+      "name": "Old Dominion Tech",
+      "location": "Crownfield",
+      "nickname": "Knights",
+      "primaryColor": "#8B0000",
+      "secondaryColor": "#D3D3D3",
+      "rival": "Capital Metro",
+      "state": "Virginia"
+    },
+    {
+      "name": "Capital Metro",
+      "location": "Eastgate",
+      "nickname": "Governors",
+      "primaryColor": "#000000",
+      "secondaryColor": "#FFD700",
+      "rival": "Old Dominion Tech",
+      "state": "DC"
+    },
+    {
+      "name": "Everpine University",
+      "location": "Needlecrest",
+      "nickname": "Stags",
+      "primaryColor": "#556B2F",
+      "secondaryColor": "#A9A9A9",
+      "rival": "Cascade State",
+      "state": "Oregon"
+    },
+    {
+      "name": "Cascade State",
+      "location": "Rainfall",
+      "nickname": "Drizzle",
+      "primaryColor": "#708090",
+      "secondaryColor": "#B0C4DE",
+      "rival": "Everpine University",
+      "state": "Oregon"
+    },
+    {
+      "name": "Badlands Agricultural College",
+      "location": "Dustrock",
+      "nickname": "Colts",
+      "primaryColor": "#D2B48C",
+      "secondaryColor": "#F5DEB3",
+      "rival": "Cattlehorn Tech",
+      "state": "North Dakota"
+    },
+    {
+      "name": "Cattlehorn Tech",
+      "location": "Hitching Post",
+      "nickname": "Longriders",
+      "primaryColor": "#8B4513",
+      "secondaryColor": "#CD853F",
+      "rival": "Badlands Agricultural College",
+      "state": "South Dakota"
+    },
+    {
+      "name": "Starlight Conservatory",
+      "location": "Silverlake",
+      "nickname": "Comets",
+      "primaryColor": "#9370DB",
+      "secondaryColor": "#D8BFD8",
+      "rival": "Astral Institute",
+      "state": "Nevada"
+    },
+    {
+      "name": "Astral Institute",
+      "location": "Nightrock",
+      "nickname": "Novas",
+      "primaryColor": "#4B0082",
+      "secondaryColor": "#8A2BE2",
+      "rival": "Starlight Conservatory",
+      "state": "New Mexico"
+    },
+    {
+      "name": "Golden Prairie A&M",
+      "location": "Wheatstone",
+      "nickname": "Broncs",
+      "primaryColor": "#DEB887",
+      "secondaryColor": "#F4A460",
+      "rival": "Frontier Range University",
+      "state": "Montana"
+    },
+    {
+      "name": "Frontier Range University",
+      "location": "Dustbloom",
+      "nickname": "Coyotes",
+      "primaryColor": "#A0522D",
+      "secondaryColor": "#BC8F8F",
+      "rival": "Golden Prairie A&M",
+      "state": "Wyoming"
+    },
+    {
+      "name": "Salt River College",
+      "location": "Mesa River",
+      "nickname": "Canyons",
+      "primaryColor": "#DAA520",
+      "secondaryColor": "#B8860B",
+      "rival": "Desert Ridge",
+      "state": "Arizona"
+    },
+    {
+      "name": "Desert Ridge",
+      "location": "Redsand",
+      "nickname": "Scorpions",
+      "primaryColor": "#CD5C5C",
+      "secondaryColor": "#FF6347",
+      "rival": "Salt River College",
+      "state": "Nevada"
+    },
+    {
+      "name": "Driftwood State",
+      "location": "Brinebay",
+      "nickname": "Mariners",
+      "primaryColor": "#1E90FF",
+      "secondaryColor": "#AFEEEE",
+      "rival": "Gulf Coast University",
+      "state": "Mississippi"
+    },
+    {
+      "name": "Gulf Coast University",
+      "location": "Sunpier",
+      "nickname": "Wave",
+      "primaryColor": "#00CED1",
+      "secondaryColor": "#48D1CC",
+      "rival": "Driftwood State",
+      "state": "Alabama"
+    },
+    {
+      "name": "Deep Pines Military Academy",
+      "location": "Fort Timber",
+      "nickname": "Commanders",
+      "primaryColor": "#191970",
+      "secondaryColor": "#708090",
+      "rival": "East Valley Academy",
+      "state": "North Carolina"
+    },
+    {
+      "name": "East Valley Academy",
+      "location": "Greystone",
+      "nickname": "Sentinels",
+      "primaryColor": "#2F4F4F",
+      "secondaryColor": "#A9A9A9",
+      "rival": "Deep Pines Military Academy",
+      "state": "South Carolina"
+    }
+  ]
+  [
+    {
+      "name": "Cascade State",
+      "location": "Bend",
+      "nickname": "Storm",
+      "primaryColor": "#1E3F66",
+      "secondaryColor": "#A8DADC",
+      "rival": "Sierra Tech",
+      "state": "OR"
+    },
+    {
+      "name": "Sierra Tech",
+      "location": "Reno",
+      "nickname": "Coyotes",
+      "primaryColor": "#264653",
+      "secondaryColor": "#F4A261",
+      "rival": "Cascade State",
+      "state": "NV"
+    },
+    {
+      "name": "Atlantic Harbor University",
+      "location": "Portsmouth",
+      "nickname": "Mariners",
+      "primaryColor": "#0077B6",
+      "secondaryColor": "#CAF0F8",
+      "rival": "Coastal Carolina",
+      "state": "VA"
+    },
+    {
+      "name": "Great Plains Tech",
+      "location": "Lincoln",
+      "nickname": "Bison",
+      "primaryColor": "#556B2F",
+      "secondaryColor": "#FFD700",
+      "rival": "Midwest A&M",
+      "state": "NE"
+    },
+    {
+      "name": "Midwest A&M",
+      "location": "Springfield",
+      "nickname": "Harvesters",
+      "primaryColor": "#9A6324",
+      "secondaryColor": "#FFD8B1",
+      "rival": "Great Plains Tech",
+      "state": "MO"
+    },
+    {
+      "name": "Suncoast University",
+      "location": "Tampa",
+      "nickname": "Barracudas",
+      "primaryColor": "#008891",
+      "secondaryColor": "#FFD369",
+      "rival": "Florida International",
+      "state": "FL"
+    }
+  ]
+      
+  
+  

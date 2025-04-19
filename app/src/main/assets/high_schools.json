@@ -1,0 +1,579 @@
+[
+    {
+      "name": "Cedar Valley High",
+      "location": "Flagstaff",
+      "nickname": "Timberwolves",
+      "primaryColor": "#4B5320",
+      "secondaryColor": "#C0C0C0",
+      "state": "AZ"
+    },
+    {
+      "name": "Pinecrest Academy",
+      "location": "Boise",
+      "nickname": "Elks",
+      "primaryColor": "#006400",
+      "secondaryColor": "#F5DEB3",
+      "state": "ID"
+    },
+    {
+      "name": "Lone Star High",
+      "location": "Lubbock",
+      "nickname": "Outlaws",
+      "primaryColor": "#8B0000",
+      "secondaryColor": "#FFD700",
+      "state": "TX"
+    },
+    {
+      "name": "Liberty Forge Prep",
+      "location": "Richmond",
+      "nickname": "Minutemen",
+      "primaryColor": "#000080",
+      "secondaryColor": "#FFFFFF",
+      "state": "VA"
+    },
+    {
+      "name": "Glacier Heights",
+      "location": "Helena",
+      "nickname": "Yeti",
+      "primaryColor": "#4682B4",
+      "secondaryColor": "#B0C4DE",
+      "state": "MT"
+    },
+    {
+      "name": "South Bay High",
+      "location": "San Diego",
+      "nickname": "Marlins",
+      "primaryColor": "#20B2AA",
+      "secondaryColor": "#FFFAFA",
+      "state": "CA"
+    },
+    {
+      "name": "Golden Fields High",
+      "location": "Wichita",
+      "nickname": "Harvesters",
+      "primaryColor": "#DAA520",
+      "secondaryColor": "#F5F5DC",
+      "state": "KS"
+    },
+    {
+      "name": "Iron Ridge High",
+      "location": "Pittsburgh",
+      "nickname": "Forge",
+      "primaryColor": "#696969",
+      "secondaryColor": "#FFA500",
+      "state": "PA"
+    },
+    {
+      "name": "Bayou Trails",
+      "location": "Shreveport",
+      "nickname": "Gators",
+      "primaryColor": "#006400",
+      "secondaryColor": "#32CD32",
+      "state": "LA"
+    },
+    {
+      "name": "Maplewood High",
+      "location": "Burlington",
+      "nickname": "Syrup Kings",
+      "primaryColor": "#8B4513",
+      "secondaryColor": "#DEB887",
+      "state": "VT"
+    },
+    {
+      "name": "Great Lakes Central",
+      "location": "Toledo",
+      "nickname": "Otters",
+      "primaryColor": "#1E90FF",
+      "secondaryColor": "#E0FFFF",
+      "state": "OH"
+    },
+    {
+      "name": "Red Rock High",
+      "location": "Moab",
+      "nickname": "Raptors",
+      "primaryColor": "#B22222",
+      "secondaryColor": "#FFDAB9",
+      "state": "UT"
+    },
+    {
+      "name": "Crystal Shores",
+      "location": "Pensacola",
+      "nickname": "Sharks",
+      "primaryColor": "#4682B4",
+      "secondaryColor": "#F0FFFF",
+      "state": "FL"
+    },
+    {
+      "name": "Wind River High",
+      "location": "Casper",
+      "nickname": "Bighorns",
+      "primaryColor": "#8B0000",
+      "secondaryColor": "#F5F5F5",
+      "state": "WY"
+    },
+    {
+      "name": "Thunder Hill Prep",
+      "location": "Oklahoma City",
+      "nickname": "Cyclones",
+      "primaryColor": "#708090",
+      "secondaryColor": "#D3D3D3",
+      "state": "OK"
+    },
+    {
+      "name": "Old Mill Academy",
+      "location": "Providence",
+      "nickname": "Spinners",
+      "primaryColor": "#2F4F4F",
+      "secondaryColor": "#A9A9A9",
+      "state": "RI"
+    },
+    {
+      "name": "Prairie Ridge High",
+      "location": "Fargo",
+      "nickname": "Jackrabbits",
+      "primaryColor": "#D2691E",
+      "secondaryColor": "#F5DEB3",
+      "state": "ND"
+    },
+    {
+      "name": "Evergreen Hills",
+      "location": "Eugene",
+      "nickname": "Owls",
+      "primaryColor": "#228B22",
+      "secondaryColor": "#F8F8FF",
+      "state": "OR"
+    },
+    {
+      "name": "Arctic Bay High",
+      "location": "Anchorage",
+      "nickname": "Ice Bears",
+      "primaryColor": "#00BFFF",
+      "secondaryColor": "#F0F8FF",
+      "state": "AK"
+    },
+    {
+      "name": "Silver Sands High",
+      "location": "Myrtle Beach",
+      "nickname": "Seagulls",
+      "primaryColor": "#5F9EA0",
+      "secondaryColor": "#FFFFFF",
+      "state": "SC"
+    },
+    {
+      "name": "Riverbend Prep",
+      "location": "Des Moines",
+      "nickname": "Otters",
+      "primaryColor": "#3CB371",
+      "secondaryColor": "#F0FFF0",
+      "state": "IA"
+    },
+    {
+      "name": "Copper Canyon High",
+      "location": "Las Cruces",
+      "nickname": "Scorpions",
+      "primaryColor": "#8B0000",
+      "secondaryColor": "#FFFFE0",
+      "state": "NM"
+    },
+    {
+      "name": "Bluegrass Prep",
+      "location": "Lexington",
+      "nickname": "Colts",
+      "primaryColor": "#4169E1",
+      "secondaryColor": "#EEE8AA",
+      "state": "KY"
+    },
+    {
+      "name": "Twin Pines High",
+      "location": "Manchester",
+      "nickname": "Grizzlies",
+      "primaryColor": "#2E8B57",
+      "secondaryColor": "#FAFAD2",
+      "state": "NH"
+    },
+    {
+      "name": "Lighthouse Prep",
+      "location": "Portland",
+      "nickname": "Keepers",
+      "primaryColor": "#00008B",
+      "secondaryColor": "#F8F8FF",
+      "state": "ME"
+    },
+    {
+      "name": "Steel Valley High",
+      "location": "Youngstown",
+      "nickname": "Smelters",
+      "primaryColor": "#808080",
+      "secondaryColor": "#FF8C00",
+      "state": "OH"
+    },
+    {
+      "name": "Skyline Academy",
+      "location": "Denver",
+      "nickname": "Eagles",
+      "primaryColor": "#191970",
+      "secondaryColor": "#E6E6FA",
+      "state": "CO"
+    },
+    {
+      "name": "Great Basin High",
+      "location": "Elko",
+      "nickname": "Jackals",
+      "primaryColor": "#B8860B",
+      "secondaryColor": "#EEE8AA",
+      "state": "NV"
+    },
+    {
+      "name": "Sunset Hills High",
+      "location": "Tucson",
+      "nickname": "Coyotes",
+      "primaryColor": "#CD5C5C",
+      "secondaryColor": "#FFE4B5",
+      "state": "AZ"
+    },
+    {
+      "name": "Maple Ridge High",
+      "location": "Rochester",
+      "nickname": "Lumberjacks",
+      "primaryColor": "#556B2F",
+      "secondaryColor": "#FFDEAD",
+      "state": "NY"
+    },
+    {
+      "name": "Oceanview High",
+      "location": "Santa Cruz",
+      "nickname": "Sailors",
+      "primaryColor": "#20B2AA",
+      "secondaryColor": "#E0FFFF",
+      "state": "CA"
+    }
+  ]
+  {
+    "name": "Oceanview High",
+    "location": "Santa Cruz",
+    "nickname": "Sailors",
+    "primaryColor": "#20B2AA",
+    "secondaryColor": "#E0FFFF",
+    "state": "CA"
+  },
+  {
+    "name": "Prairie Crest High",
+    "location": "Lincoln",
+    "nickname": "Pioneers",
+    "primaryColor": "#DAA520",
+    "secondaryColor": "#FFF8DC",
+    "state": "NE"
+  },
+  {
+    "name": "Riverstone Academy",
+    "location": "Bismarck",
+    "nickname": "Falcons",
+    "primaryColor": "#708090",
+    "secondaryColor": "#DCDCDC",
+    "state": "ND"
+  },
+  {
+    "name": "Storm Ridge High",
+    "location": "Cheyenne",
+    "nickname": "Thunderhawks",
+    "primaryColor": "#00008B",
+    "secondaryColor": "#87CEFA",
+    "state": "WY"
+  },
+  {
+    "name": "Crimson Lake High",
+    "location": "Madison",
+    "nickname": "Bloodhounds",
+    "primaryColor": "#8B0000",
+    "secondaryColor": "#FFE4C4",
+    "state": "WI"
+  },
+  {
+    "name": "Timber Falls High",
+    "location": "Olympia",
+    "nickname": "Wolves",
+    "primaryColor": "#2F4F4F",
+    "secondaryColor": "#DCDCDC",
+    "state": "WA"
+  },
+  {
+    "name": "Granite Hollow Prep",
+    "location": "Concord",
+    "nickname": "Warhogs",
+    "primaryColor": "#A9A9A9",
+    "secondaryColor": "#FFD700",
+    "state": "NH"
+  },
+  {
+    "name": "Elmwood High",
+    "location": "Albany",
+    "nickname": "Owls",
+    "primaryColor": "#556B2F",
+    "secondaryColor": "#FFFFF0",
+    "state": "NY"
+  },
+  {
+    "name": "Desert Ridge High",
+    "location": "Las Vegas",
+    "nickname": "Rattlers",
+    "primaryColor": "#B22222",
+    "secondaryColor": "#F0E68C",
+    "state": "NV"
+  },
+  {
+    "name": "Fox Hollow High",
+    "location": "Springfield",
+    "nickname": "Vixens",
+    "primaryColor": "#FF4500",
+    "secondaryColor": "#FAEBD7",
+    "state": "MO"
+  },
+  {
+    "name": "Oak Summit High",
+    "location": "Columbia",
+    "nickname": "Hornets",
+    "primaryColor": "#006400",
+    "secondaryColor": "#FFFF00",
+    "state": "SC"
+  },
+  {
+    "name": "Cascade Hills High",
+    "location": "Salem",
+    "nickname": "Cougars",
+    "primaryColor": "#483D8B",
+    "secondaryColor": "#EEE8AA",
+    "state": "OR"
+  },
+  {
+    "name": "Ironwood Prep",
+    "location": "Birmingham",
+    "nickname": "Crushers",
+    "primaryColor": "#696969",
+    "secondaryColor": "#FF6347",
+    "state": "AL"
+  },
+  {
+    "name": "Sunrise High",
+    "location": "Tampa",
+    "nickname": "Hawks",
+    "primaryColor": "#FF8C00",
+    "secondaryColor": "#F0E68C",
+    "state": "FL"
+  },
+  {
+    "name": "Bluffside High",
+    "location": "Davenport",
+    "nickname": "Spartans",
+    "primaryColor": "#2E8B57",
+    "secondaryColor": "#F5F5DC",
+    "state": "IA"
+  },
+  {
+    "name": "Hickory Hill High",
+    "location": "Knoxville",
+    "nickname": "Rangers",
+    "primaryColor": "#8B4513",
+    "secondaryColor": "#FFDAB9",
+    "state": "TN"
+  },
+  {
+    "name": "Baycrest High",
+    "location": "Biloxi",
+    "nickname": "Marlins",
+    "primaryColor": "#4682B4",
+    "secondaryColor": "#F0FFF0",
+    "state": "MS"
+  },
+  {
+    "name": "Driftwood Academy",
+    "location": "Dover",
+    "nickname": "Buccaneers",
+    "primaryColor": "#8B0000",
+    "secondaryColor": "#FFF5EE",
+    "state": "DE"
+  },
+  {
+    "name": "North Star High",
+    "location": "Minneapolis",
+    "nickname": "Polars",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#F5FFFA",
+    "state": "MN"
+  },
+  {
+    "name": "Summit Ridge High",
+    "location": "Billings",
+    "nickname": "Alpines",
+    "primaryColor": "#708090",
+    "secondaryColor": "#E0FFFF",
+    "state": "MT"
+  },
+  {
+    "name": "Red River High",
+    "location": "Lafayette",
+    "nickname": "Rebels",
+    "primaryColor": "#B22222",
+    "secondaryColor": "#FAFAD2",
+    "state": "LA"
+  },
+  {
+    "name": "Green Hollow High",
+    "location": "Little Rock",
+    "nickname": "Ravens",
+    "primaryColor": "#006400",
+    "secondaryColor": "#C0C0C0",
+    "state": "AR"
+  },
+  {
+    "name": "Beacon Hill High",
+    "location": "Boston",
+    "nickname": "Commanders",
+    "primaryColor": "#000080",
+    "secondaryColor": "#F5F5F5",
+    "state": "MA"
+  },
+  {
+    "name": "High Plains High",
+    "location": "Amarillo",
+    "nickname": "Mustangs",
+    "primaryColor": "#DAA520",
+    "secondaryColor": "#FAEBD7",
+    "state": "TX"
+  },
+  {
+    "name": "Copper Springs Prep",
+    "location": "Phoenix",
+    "nickname": "Roadrunners",
+    "primaryColor": "#CD853F",
+    "secondaryColor": "#FFFACD",
+    "state": "AZ"
+  },
+  {
+    "name": "Glen Ridge High",
+    "location": "Trenton",
+    "nickname": "Badgers",
+    "primaryColor": "#2F4F4F",
+    "secondaryColor": "#FFEBCD",
+    "state": "NJ"
+  },
+  {
+    "name": "Harborview High",
+    "location": "Baltimore",
+    "nickname": "Mariners",
+    "primaryColor": "#000080",
+    "secondaryColor": "#F0FFFF",
+    "state": "MD"
+  },
+  {
+    "name": "Redwood Academy",
+    "location": "Eureka",
+    "nickname": "Lions",
+    "primaryColor": "#8B0000",
+    "secondaryColor": "#FFD700",
+    "state": "CA"
+  },
+  {
+    "name": "Meadow Hills High",
+    "location": "Lincoln",
+    "nickname": "Bulls",
+    "primaryColor": "#A52A2A",
+    "secondaryColor": "#FFF5EE",
+    "state": "NE"
+  },
+  {
+    "name": "Brookstone High",
+    "location": "Columbus",
+    "nickname": "Patriots",
+    "primaryColor": "#00008B",
+    "secondaryColor": "#B0C4DE",
+    "state": "OH"
+  },
+  {
+    "name": "Ironclad High",
+    "location": "Mobile",
+    "nickname": "Battalion",
+    "primaryColor": "#708090",
+    "secondaryColor": "#FFFAFA",
+    "state": "AL"
+  },
+  {
+    "name": "Pine Bluff High",
+    "location": "Hattiesburg",
+    "nickname": "Warhawks",
+    "primaryColor": "#A52A2A",
+    "secondaryColor": "#EEE8AA",
+    "state": "MS"
+  },
+  {
+    "name": "Horizon Tech",
+    "location": "Mesa",
+    "nickname": "Chargers",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#0000CD",
+    "state": "AZ"
+  },
+  {
+    "name": "Smoky Ridge High",
+    "location": "Bozeman",
+    "nickname": "Coyotes",
+    "primaryColor": "#CD5C5C",
+    "secondaryColor": "#F0E68C",
+    "state": "MT"
+  },
+  {
+    "name": "Briarfield High",
+    "location": "Charleston",
+    "nickname": "Panthers",
+    "primaryColor": "#000000",
+    "secondaryColor": "#B0C4DE",
+    "state": "WV"
+  },
+  {
+    "name": "Silver Valley Prep",
+    "location": "Juneau",
+    "nickname": "Huskies",
+    "primaryColor": "#778899",
+    "secondaryColor": "#F5FFFA",
+    "state": "AK"
+  },
+  {
+    "name": "Crimson Mesa High",
+    "location": "St. George",
+    "nickname": "Vultures",
+    "primaryColor": "#800000",
+    "secondaryColor": "#FFE4E1",
+    "state": "UT"
+  },
+  {
+    "name": "Sunflower Hills High",
+    "location": "Overland Park",
+    "nickname": "Jays",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#F0F8FF",
+    "state": "KS"
+  },
+  {
+    "name": "Cypress Ridge High",
+    "location": "Greenville",
+    "nickname": "Stallions",
+    "primaryColor": "#006400",
+    "secondaryColor": "#FAFAD2",
+    "state": "SC"
+  },
+  {
+    "name": "Falcon Peak High",
+    "location": "Colorado Springs",
+    "nickname": "Falcons",
+    "primaryColor": "#4682B4",
+    "secondaryColor": "#F8F8FF",
+    "state": "CO"
+  },
+  {
+    "name": "Tidewater Academy",
+    "location": "Norfolk",
+    "nickname": "Sharks",
+    "primaryColor": "#20B2AA",
+    "secondaryColor": "#E6E6FA",
+    "state": "VA"
+  }
+  
